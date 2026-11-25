@@ -1,0 +1,5 @@
+The river eDNA source data are derived from the eDITH_RiverDNA repository at commit
+6ef61c76d69a739ffd508d66c89207ba8867ecb6, associated with Carraro, Blackman, and
+Altermatt (2023), Scientific Reports, https://doi.org/10.1038/s41598-023-35614-6.
+The upstream GPL-3.0 license text is included at environment/data/UPSTREAM_LICENSE.txt.
+No endorsement by the original authors is implied.

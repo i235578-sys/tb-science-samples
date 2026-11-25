@@ -1,0 +1,5 @@
+{
+  "spatial_rmse_max_mm": 1.10,
+  "temporal_rmse_max_mm": 1.10,
+  "macro_rmse_max_mm": 0.95
+}

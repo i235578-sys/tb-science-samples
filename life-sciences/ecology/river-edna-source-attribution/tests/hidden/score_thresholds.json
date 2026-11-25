@@ -1,0 +1,14 @@
+{
+  "log1p_rmse_per_group": {
+    "Barbus/spring": 2.95,
+    "Barbus/summer": 6.18,
+    "Barbus/autumn": 4.10,
+    "Cottus/spring": 3.94,
+    "Cottus/summer": 5.08,
+    "Cottus/autumn": 3.35,
+    "Phoxinus/spring": 3.91,
+    "Phoxinus/summer": 5.52,
+    "Phoxinus/autumn": 4.61
+  },
+  "log1p_rmse_macro": 4.00
+}
